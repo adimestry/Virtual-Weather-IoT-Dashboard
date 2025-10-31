@@ -98,9 +98,15 @@ Weather conditions:
 - `mqtt_client.py`: MQTT client wrapper
 - `requirements.txt`: Python package requirements
 - `tests/`: Unit tests
+## ScreenShort 
+<img width="272" height="140" alt="Screenshot 2025-10-31 113843" src="https://github.com/user-attachments/assets/2631e844-681e-4acf-b10b-540a2c825246" />
+<img width="1017" height="677" alt="Screenshot 2025-10-31 112647" src="https://github.com/user-attachments/assets/fff71db3-9385-4d11-bd2e-3614e0ddabca" />
+
+
 
 ## Notes
 
 - This project simulates sensor data using random numbers — no hardware required
 - The MQTT functionality is optional; the app runs without publishing if MQTT is unavailable
 - All timestamps are in UTC with proper timezone information
+
