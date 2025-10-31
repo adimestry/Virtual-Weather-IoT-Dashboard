@@ -26,6 +26,7 @@ A Python application that simulates IoT weather stations across multiple cities,
 - Required packages (install via `pip install -r requirements.txt`):
   - matplotlib>=3.0
   - paho-mqtt>=1.6
+  - used the api visualCrossing Weather API
 
 ## Quick Start
 
@@ -109,4 +110,5 @@ Weather conditions:
 - This project simulates sensor data using random numbers — no hardware required
 - The MQTT functionality is optional; the app runs without publishing if MQTT is unavailable
 - All timestamps are in UTC with proper timezone information
+
 
