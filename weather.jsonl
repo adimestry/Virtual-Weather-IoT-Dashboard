@@ -1,0 +1,111 @@
+{"timestamp": "2025-10-30T21:47:27.503283+00:00", "city": "London", "temperature": 12.2, "humidity": 51.9, "wind": 42.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:27.505539+00:00", "city": "Tokyo", "temperature": 18.9, "humidity": 63.6, "wind": 57.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:27.506384+00:00", "city": "New York", "temperature": 32.6, "humidity": 53.4, "wind": 58.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:29.508994+00:00", "city": "London", "temperature": 34.6, "humidity": 46.4, "wind": 17.3, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:47:29.512026+00:00", "city": "Tokyo", "temperature": 13.0, "humidity": 26.4, "wind": 19.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:29.514384+00:00", "city": "New York", "temperature": 34.4, "humidity": 38.8, "wind": 59.3, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:47:31.516967+00:00", "city": "London", "temperature": 17.4, "humidity": 64.1, "wind": 20.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:31.519976+00:00", "city": "Tokyo", "temperature": 10.8, "humidity": 61.0, "wind": 27.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:31.522287+00:00", "city": "New York", "temperature": 13.3, "humidity": 34.0, "wind": 59.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:33.526240+00:00", "city": "London", "temperature": 12.8, "humidity": 57.9, "wind": 4.7, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:33.528471+00:00", "city": "Tokyo", "temperature": 22.9, "humidity": 83.0, "wind": 3.3, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:47:33.530322+00:00", "city": "New York", "temperature": 30.4, "humidity": 20.2, "wind": 55.4, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:47:35.532844+00:00", "city": "London", "temperature": 21.1, "humidity": 44.7, "wind": 8.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:35.535295+00:00", "city": "Tokyo", "temperature": 27.0, "humidity": 66.7, "wind": 52.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:35.537112+00:00", "city": "New York", "temperature": 12.3, "humidity": 40.3, "wind": 27.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:37.539744+00:00", "city": "London", "temperature": 33.6, "humidity": 87.3, "wind": 62.5, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:47:37.543109+00:00", "city": "Tokyo", "temperature": 22.2, "humidity": 38.7, "wind": 26.1, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:37.545422+00:00", "city": "New York", "temperature": 16.1, "humidity": 76.2, "wind": 22.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:39.549201+00:00", "city": "London", "temperature": 11.7, "humidity": 78.8, "wind": 32.1, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:39.551870+00:00", "city": "Tokyo", "temperature": 25.5, "humidity": 71.3, "wind": 10.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:39.553896+00:00", "city": "New York", "temperature": 34.4, "humidity": 88.2, "wind": 45.5, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:47:41.557512+00:00", "city": "London", "temperature": 21.5, "humidity": 31.7, "wind": 45.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:41.560487+00:00", "city": "Tokyo", "temperature": 26.3, "humidity": 20.8, "wind": 49.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:41.562705+00:00", "city": "New York", "temperature": 11.3, "humidity": 39.7, "wind": 24.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:43.566912+00:00", "city": "London", "temperature": 24.0, "humidity": 53.1, "wind": 27.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:43.569441+00:00", "city": "Tokyo", "temperature": 27.9, "humidity": 59.5, "wind": 3.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:43.573084+00:00", "city": "New York", "temperature": 27.0, "humidity": 67.4, "wind": 46.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:45.576526+00:00", "city": "London", "temperature": 21.0, "humidity": 52.7, "wind": 7.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:45.578939+00:00", "city": "Tokyo", "temperature": 16.6, "humidity": 22.4, "wind": 46.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:45.581039+00:00", "city": "New York", "temperature": 25.8, "humidity": 89.5, "wind": 53.7, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:47:47.583263+00:00", "city": "London", "temperature": 28.5, "humidity": 38.2, "wind": 46.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:47.585645+00:00", "city": "Tokyo", "temperature": 15.2, "humidity": 67.0, "wind": 37.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:47.590209+00:00", "city": "New York", "temperature": 9.6, "humidity": 23.8, "wind": 46.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:49.593388+00:00", "city": "London", "temperature": 33.5, "humidity": 78.4, "wind": 46.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:49.595798+00:00", "city": "Tokyo", "temperature": 19.6, "humidity": 37.9, "wind": 50.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:49.597491+00:00", "city": "New York", "temperature": 24.5, "humidity": 57.8, "wind": 58.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:51.599456+00:00", "city": "London", "temperature": 29.5, "humidity": 53.1, "wind": 60.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:51.602264+00:00", "city": "Tokyo", "temperature": 16.1, "humidity": 38.9, "wind": 0.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:51.604451+00:00", "city": "New York", "temperature": 19.4, "humidity": 76.5, "wind": 55.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:53.606989+00:00", "city": "London", "temperature": 26.1, "humidity": 77.5, "wind": 18.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:53.610124+00:00", "city": "Tokyo", "temperature": 22.6, "humidity": 57.1, "wind": 52.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:53.612403+00:00", "city": "New York", "temperature": 30.3, "humidity": 23.5, "wind": 61.9, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:47:55.614722+00:00", "city": "London", "temperature": 26.1, "humidity": 71.1, "wind": 44.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:55.618669+00:00", "city": "Tokyo", "temperature": 19.0, "humidity": 37.2, "wind": 5.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:55.621500+00:00", "city": "New York", "temperature": 14.1, "humidity": 60.2, "wind": 35.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:57.624161+00:00", "city": "London", "temperature": 9.9, "humidity": 33.6, "wind": 55.1, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:57.626076+00:00", "city": "Tokyo", "temperature": 16.2, "humidity": 42.1, "wind": 26.0, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:57.627600+00:00", "city": "New York", "temperature": 10.3, "humidity": 85.3, "wind": 23.7, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:47:59.629193+00:00", "city": "London", "temperature": 11.1, "humidity": 69.1, "wind": 8.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:59.631004+00:00", "city": "Tokyo", "temperature": 29.3, "humidity": 61.3, "wind": 16.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:47:59.633059+00:00", "city": "New York", "temperature": 33.5, "humidity": 35.5, "wind": 15.2, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:48:01.635368+00:00", "city": "London", "temperature": 24.7, "humidity": 50.2, "wind": 49.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:01.637622+00:00", "city": "Tokyo", "temperature": 11.3, "humidity": 79.9, "wind": 35.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:01.639720+00:00", "city": "New York", "temperature": 18.7, "humidity": 81.7, "wind": 15.8, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:03.643832+00:00", "city": "London", "temperature": 23.1, "humidity": 32.9, "wind": 38.7, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:03.645966+00:00", "city": "Tokyo", "temperature": 27.7, "humidity": 64.5, "wind": 7.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:03.650060+00:00", "city": "New York", "temperature": 20.1, "humidity": 65.8, "wind": 60.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:05.653360+00:00", "city": "London", "temperature": 34.5, "humidity": 38.2, "wind": 8.3, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:48:05.656641+00:00", "city": "Tokyo", "temperature": 30.0, "humidity": 83.2, "wind": 61.3, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:05.659155+00:00", "city": "New York", "temperature": 19.6, "humidity": 75.5, "wind": 55.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:07.662286+00:00", "city": "London", "temperature": 24.5, "humidity": 36.5, "wind": 9.7, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:07.665867+00:00", "city": "Tokyo", "temperature": 19.4, "humidity": 47.2, "wind": 63.0, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:07.668262+00:00", "city": "New York", "temperature": 11.3, "humidity": 71.7, "wind": 40.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:09.670992+00:00", "city": "London", "temperature": 19.1, "humidity": 70.4, "wind": 29.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:09.673377+00:00", "city": "Tokyo", "temperature": 12.5, "humidity": 81.4, "wind": 33.9, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:09.675283+00:00", "city": "New York", "temperature": 33.7, "humidity": 41.7, "wind": 52.3, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:48:11.677923+00:00", "city": "London", "temperature": 19.5, "humidity": 73.5, "wind": 16.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:11.679871+00:00", "city": "Tokyo", "temperature": 33.4, "humidity": 44.7, "wind": 57.8, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:48:11.681527+00:00", "city": "New York", "temperature": 13.0, "humidity": 36.8, "wind": 25.9, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:13.683643+00:00", "city": "London", "temperature": 28.8, "humidity": 85.1, "wind": 44.2, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:13.685849+00:00", "city": "Tokyo", "temperature": 30.5, "humidity": 48.7, "wind": 20.1, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:48:13.687560+00:00", "city": "New York", "temperature": 24.4, "humidity": 27.2, "wind": 13.7, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:15.689522+00:00", "city": "London", "temperature": 30.4, "humidity": 57.0, "wind": 7.1, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:15.691830+00:00", "city": "Tokyo", "temperature": 32.2, "humidity": 38.7, "wind": 63.2, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:48:15.693392+00:00", "city": "New York", "temperature": 33.8, "humidity": 21.5, "wind": 44.8, "condition": "\u2600\ufe0f"}
+{"timestamp": "2025-10-30T21:48:17.695810+00:00", "city": "London", "temperature": 30.5, "humidity": 77.1, "wind": 9.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:17.697354+00:00", "city": "Tokyo", "temperature": 16.1, "humidity": 49.7, "wind": 26.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:17.698964+00:00", "city": "New York", "temperature": 16.2, "humidity": 47.9, "wind": 10.7, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:19.701119+00:00", "city": "London", "temperature": 13.0, "humidity": 71.1, "wind": 24.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:19.704112+00:00", "city": "Tokyo", "temperature": 11.3, "humidity": 21.0, "wind": 21.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:19.706256+00:00", "city": "New York", "temperature": 12.3, "humidity": 25.0, "wind": 45.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:21.708723+00:00", "city": "London", "temperature": 20.7, "humidity": 77.6, "wind": 39.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:21.710649+00:00", "city": "Tokyo", "temperature": 16.0, "humidity": 46.6, "wind": 6.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:21.712213+00:00", "city": "New York", "temperature": 31.6, "humidity": 82.9, "wind": 24.5, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:23.714352+00:00", "city": "London", "temperature": 18.2, "humidity": 41.3, "wind": 14.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:23.716322+00:00", "city": "Tokyo", "temperature": 20.1, "humidity": 82.4, "wind": 2.6, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:23.718668+00:00", "city": "New York", "temperature": 10.7, "humidity": 26.9, "wind": 27.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:25.721311+00:00", "city": "London", "temperature": 17.8, "humidity": 54.1, "wind": 14.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:25.723520+00:00", "city": "Tokyo", "temperature": 21.7, "humidity": 55.6, "wind": 9.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:25.726762+00:00", "city": "New York", "temperature": 30.3, "humidity": 63.0, "wind": 43.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:27.729288+00:00", "city": "London", "temperature": 11.6, "humidity": 60.8, "wind": 16.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:27.731017+00:00", "city": "Tokyo", "temperature": 16.2, "humidity": 49.8, "wind": 3.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:27.732669+00:00", "city": "New York", "temperature": 11.5, "humidity": 34.1, "wind": 31.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:29.734616+00:00", "city": "London", "temperature": 34.4, "humidity": 83.9, "wind": 56.9, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:29.736109+00:00", "city": "Tokyo", "temperature": 13.8, "humidity": 46.2, "wind": 12.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:29.737429+00:00", "city": "New York", "temperature": 23.7, "humidity": 67.8, "wind": 8.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:31.738976+00:00", "city": "London", "temperature": 15.5, "humidity": 77.8, "wind": 45.2, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:31.741846+00:00", "city": "Tokyo", "temperature": 34.1, "humidity": 81.1, "wind": 54.8, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:31.743538+00:00", "city": "New York", "temperature": 15.2, "humidity": 65.2, "wind": 61.7, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:33.744931+00:00", "city": "London", "temperature": 15.7, "humidity": 69.8, "wind": 36.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:33.747896+00:00", "city": "Tokyo", "temperature": 27.7, "humidity": 76.4, "wind": 33.4, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:33.750093+00:00", "city": "New York", "temperature": 25.1, "humidity": 60.6, "wind": 25.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:35.752360+00:00", "city": "London", "temperature": 26.4, "humidity": 75.6, "wind": 39.0, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:35.754515+00:00", "city": "Tokyo", "temperature": 20.5, "humidity": 88.9, "wind": 6.7, "condition": "\ud83c\udf27\ufe0f"}
+{"timestamp": "2025-10-30T21:48:35.757829+00:00", "city": "New York", "temperature": 11.9, "humidity": 44.5, "wind": 7.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:37.760672+00:00", "city": "London", "temperature": 18.8, "humidity": 57.2, "wind": 11.3, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:37.763581+00:00", "city": "Tokyo", "temperature": 11.8, "humidity": 51.5, "wind": 13.6, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:37.766541+00:00", "city": "New York", "temperature": 14.7, "humidity": 74.8, "wind": 59.8, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:39.768669+00:00", "city": "London", "temperature": 20.9, "humidity": 69.9, "wind": 13.5, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:39.773051+00:00", "city": "Tokyo", "temperature": 13.3, "humidity": 45.8, "wind": 4.7, "condition": "\ud83c\udf24\ufe0f"}
+{"timestamp": "2025-10-30T21:48:39.777445+00:00", "city": "New York", "temperature": 15.2, "humidity": 85.3, "wind": 58.8, "condition": "\ud83c\udf27\ufe0f"}
